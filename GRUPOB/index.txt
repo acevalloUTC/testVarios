@@ -2,8 +2,6 @@ head
  master
 head
 body
- bryan
 body
 body2
- santiago
 body2
